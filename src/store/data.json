@@ -1,0 +1,16 @@
+{
+  "exercises": [
+    {
+      "title": "New Pushups",
+      "details": "Details",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "title": "Lat Pulldown",
+      "details": "You pull with your lats duuh",
+      "complete": true,
+      "id": 2120
+    }
+  ]
+}
